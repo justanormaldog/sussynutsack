@@ -16,3 +16,20 @@ curl -s https://api.openai.com/v1/completions \
 }' \
 --insecure | jq -r '.choices[]'.text
 EOS`
+
+eval ${curl}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+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
